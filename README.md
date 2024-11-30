@@ -30,7 +30,7 @@ The system operates through the following workflow:
 ## Technical Specifications
 - Microcontroller: STM32F4 Series
 - Communication Protocols: RFID RC522, GSM SIM868
-- Display: OLED
+- Display: OLED SSD1306
 - Actuator: Stepper Motor SG90
 - Data Storage: Structs stored locally on STM32F4 
 
