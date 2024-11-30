@@ -4,7 +4,7 @@
 An embedded systems project implementing an automated toll collection mechanism using STM32F4 microcontroller with integrated RFID, GSM, and database.
 
 ## Hardware Components
-- STM32F4 Microcontroller Board
+- STM32F4 Discovery Microcontroller Board
 - RFID Reader
 - GSM Module
 - Servo Motor
@@ -28,7 +28,7 @@ The system operates through the following workflow:
 7. Transaction logged
 
 ## Technical Specifications
-- Microcontroller: STM32F4 Series
+- Microcontroller: STM32F407VGTx
 - Communication Protocols: RFID RC522, GSM SIM868
 - Display: OLED SSD1306
 - Actuator: Servo Motor SG90
