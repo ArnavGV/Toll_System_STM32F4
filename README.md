@@ -1,4 +1,4 @@
-# Automated Toll Collection System
+# Automated Toll Collection System using STM32F4 Discovery
 
 ## Project Overview
 An embedded systems project implementing an automated toll collection mechanism using STM32F4 microcontroller with integrated RFID, GSM, and database.
