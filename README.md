@@ -29,9 +29,10 @@ The system operates through the following workflow:
 
 ## Technical Specifications
 - Microcontroller: STM32F407VGTx
-- Communication Protocols: RFID RC522, GSM SIM868
+- Peripherals: RFID RC522, GSM SIM868
+- Communication Protocols: SPI, I2C
 - Display: OLED SSD1306
-- Actuator: Servo Motor SG90
+- Actuator: Servo Motor SG90 (PWM controlled)
 - Data Storage: Structs stored locally on STM32F4 
 
 ## Setup and Installation
